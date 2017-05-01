@@ -32,6 +32,6 @@ end
 
 describe 'fizzbuzz' do
   it 'returns "8" when passed 8' do
-    expect(fizzbuzz(8)).to eq '8'
+    expect(fizzbuzz(8)).to eq 8
   end
 end
